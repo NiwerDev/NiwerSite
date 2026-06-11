@@ -1,2 +1,4 @@
-# NiwerSite
-I noticed that many aspiring IT freelancers struggle due to high competition. To solve this, I’m developing NIWER — a platform that provides users with projects to work on, reviews quality, handles marketing, pays a revenue share, and credits developers upon publication, helping them build portfolios and get recommendations.
+I have noticed that many aspiring IT freelancers struggle to start earning due to high competition, a lack of reviews, and empty portfolios. To solve this, I am developing NIWER — a platform designed to help beginners build up their portfolios and secure their first professional recommendations.
+
+To achieve this, the site works through the following process:
+First, NIWER provides users with real projects to work on, eliminating the need to fight for clients. Once the user completes the task, we review the quality of their work. After approval, the platform takes over and handles all the project promotion and marketing. Finally, when the project goes live, we pay the developer a percentage of the revenue and publicly credit them. This gives beginners a real, working product for their portfolio and their first solid recommendations
